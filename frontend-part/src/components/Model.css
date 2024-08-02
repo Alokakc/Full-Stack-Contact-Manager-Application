@@ -1,0 +1,11 @@
+.close {
+    position: absolute; /* Use absolute positioning */
+    top: 5px;          /* Position 10px from the top */
+    right: 5px;        /* Position 10px from the right */
+    border: none;
+    background-color: #fff;
+}
+
+.marg {
+    margin-top: 10px;
+}
